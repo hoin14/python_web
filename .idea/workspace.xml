@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5116a93-5bdf-4138-985a-f57fdfb92bc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jik3stSro1LFizGAhx2EJ36mqZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysitePY/polls" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysitePY/polls" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysitePY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysitePY/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5116a93-5bdf-4138-985a-f57fdfb92bc8" name="Default Changelist" comment="" />
+      <created>1604294104755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604294104755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="117" key="#Inspections" timestamp="1604400328458">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="354" y="117" key="#Inspections/0.23.1440.819@0.23.1440.819" timestamp="1604400328458" />
+    <state x="437" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604295841353">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="437" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.819@0.23.1440.819" timestamp="1604295841353" />
+    <state x="94" y="136" width="1200" height="579" key="DiffContextDialog" timestamp="1604295298339">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="94" y="136" width="1200" height="579" key="DiffContextDialog/0.23.1440.819@0.23.1440.819" timestamp="1604295298339" />
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1604811197565">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1604811197565" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1604811197564">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1604811197564" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1604811197563">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1604811197563" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1604811197565">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1604811197565" />
+    <state x="221" y="71" key="SettingsEditor" timestamp="1604294690164">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="221" y="71" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1604294690164" />
+    <state x="120" y="143" width="1200" height="579" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604295298340">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="120" y="143" width="1200" height="579" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.819@0.23.1440.819" timestamp="1604295298340" />
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1604296141729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1604296141729" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
